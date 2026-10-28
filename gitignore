@@ -1,0 +1,41 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+.Renviron
+.Rprofile
+
+# R Markdown / Quarto generated files
+*_cache/
+*_files/
+.quarto/
+_site/
+_book/
+*.html
+*.pdf
+
+# Local data files (uncomment or adjust if you want to version datasets)
+# data/
+# *.xlsx
+# *.csv
+
+# Credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors and IDEs
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
